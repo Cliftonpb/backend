@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx json-server db.json"
+    "test": "jest -- watchALL"
   },
   "keywords": [],
   "author": "",
